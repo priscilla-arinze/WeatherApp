@@ -2,7 +2,7 @@
 
 
 # Description
-This is an Android weather application that uses React Native to utilize and combine stylesheets, flex‐box, network communication, user input, and images into a simple app. This app calls current weather data by zipcode from the [Open Weather API](https://openweathermap.org/api). Source code adapted from "Learning React Native" book by Bonnie Eisenman
+This is an Android weather application that uses React Native to utilize and combine stylesheets, flex‐box, network communication, user input, and images into a simple app. This app calls current weather data by zipcode from the [Open Weather API](https://openweathermap.org/api). Source code adapted from ["Learning React Native" book by Bonnie Eisenman](https://www.imel.ba/edukacija/learningreactnative.pdf)
 
 
 # Preview
@@ -33,6 +33,6 @@ This is an Android weather application that uses React Native to utilize and com
 * Includes stylesheet for displayed content
 
 ## Forecast.js
-* Styles 3 chosen weather properties
+* Styles 3 chosen weather properties (main, description, temp)
 
 
