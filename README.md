@@ -23,7 +23,7 @@ This is an Android weather application that uses React Native to utilize and com
 * Stores & parses API endpoint URL 
 * Includes a comment for Example API calls and how to parse API endpoint URL
 * Includes a comment of an example JSON file output for the zipcode of 77450
-* Upon user-input of a valid zipcode, the fetchForecast() function will retrieve and return 3 properties from the JSON file provided by the OpenWeatherMap component: main (short current forecast summary), description (longer current forecast summary), temp (current temperature)
+* Upon user-input of a valid zipcode, the fetchForecast() function will retrieve and return 3 properties from the JSON file provided by the OpenWeatherMap component: main (short current forecast summary), description (longer current forecast summary), temp (current temperature in degrees Fahrenheit)
 
 ## WeatherProject.js
 * Main project file
