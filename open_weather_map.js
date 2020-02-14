@@ -34,12 +34,12 @@ function zipUrl(zip) {
             [0]:
                 "id":804,
                 "main":"Clouds", (<- used for main )
-                "description":"overcast clouds",
+                "description":"overcast clouds", (<- used for description)
                 "icon":"04n"
         },
         "base":"stations",
         "main":{
-            "temp":41.52,
+            "temp":41.52, (<- used for temp)
             "feels_like":31.86,
             "temp_min":39,
             "temp_max":44.01,
